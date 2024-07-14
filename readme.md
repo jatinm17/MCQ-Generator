@@ -1,20 +1,7 @@
-Here’s an updated version of the README file with details on the use of NLP in the project:
-
----
 
 # MCQ Generator Application
 
 This project is a web application designed to generate Multiple Choice Questions (MCQs) based on text extracted from uploaded PDF or TXT files. It uses Flask as the web framework and incorporates Natural Language Processing (NLP) techniques for text analysis and question generation.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technical Details](#technical-details)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -94,7 +81,6 @@ This project is a web application designed to generate Multiple Choice Questions
 ├── templates
 │   ├── index.html
 │   └── mcqs.html
-└── uploads
 ```
 
 - `app.py`: Main application file containing the Flask routes and logic.
@@ -135,7 +121,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This detailed description includes the use of NLP, giving users a comprehensive overview of the project’s functionality and structure. If you have any specific NLP libraries or techniques you’re using, you can further elaborate on them in the Technical Details section.
