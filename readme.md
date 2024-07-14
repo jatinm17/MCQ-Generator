@@ -80,13 +80,12 @@ This project is a web application designed to generate Multiple Choice Questions
 ├── requirements.txt
 ├── templates
 │   ├── index.html
-│   └── mcqs.html
+    └── mcqs.html
 ```
 
 - `app.py`: Main application file containing the Flask routes and logic.
 - `requirements.txt`: Lists all the dependencies required for the project.
 - `templates/`: Contains the HTML templates for the web pages.
-- `uploads/`: Directory for storing uploaded files.
 
 ## Technical Details
 
